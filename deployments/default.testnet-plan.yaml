@@ -11,7 +11,7 @@ plan:
         - contract-publish:
             contract-name: task-bounty-board
             expected-sender: ST3GAHTM5FET3NXJKWMQAN4BTBCKBDS8PJ7FJXJ1V
-            cost: 1983
+            cost: 19600
             path: "contracts\\task-bounty-board.clar"
             anchor-block-only: true
             clarity-version: 3
